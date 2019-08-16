@@ -7,7 +7,7 @@
       </div>
 
       <div class="col-sm-10">
-        <i class="far fa-sticky-note"></i> <%= link_to post.title, post %>
+        <%= link_to post.title, post %>
 
         <div class="">
           <%= simple_format(truncate(post.content, length: 40, separator: ' ')) %>

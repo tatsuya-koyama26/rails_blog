@@ -2,8 +2,9 @@
 @import "font-awesome-sprockets";
 @import "font-awesome";
 body {
-  background:linear-gradient(180deg,#4caf50 0%,#4caf50 12%,#edecec 0%,#edecec 100%) no-repeat;
+  background:linear-gradient(180deg,#4caf50 0%,#89d8e5 17%,#edecec 0%,#edecec 100%) no-repeat;
   padding-top: 4.5rem;
+  padding-bottom: 200px;
 }
 header {
   h1 {
@@ -32,6 +33,6 @@ footer { padding: 10px 0;}
   width: 150px;
   height: auto;
 }
-.bgHeaderGreen {background: #4caf50;}
+.bgHeaderGreen {background: #96cfc1;}
 .bgFooterGray {background: #edecec;}
 .mainWrap {border-radius: 4px;}
