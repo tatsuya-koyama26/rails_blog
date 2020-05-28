@@ -66,6 +66,6 @@ gem 'mini_racer'
 gem 'bootstrap', '~> 4.1.0'
 gem 'jquery-rails'
 gem 'font-awesome-sass', '~> 5.0.9'
-gem 'kaminari', '~> 0.17.0'
+gem 'kaminari', '~> 1.2.1'
 gem 'kaminari-bootstrap', '~> 3.0.1'
 
